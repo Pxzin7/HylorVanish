@@ -1,0 +1,16 @@
+name: HylorVanish
+main: br.com.hylor.vanish.HylorVanish
+version: 1.0.0
+author: Px
+commands:
+  v:
+    description: Entra no modo vanish.
+    usage: /v
+    permission: hylorvanish.staff
+  vv:
+    description: Sai do modo vanish.
+    usage: /vv
+permissions:
+  hylorvanish.staff:
+    description: Permite entrar no vanish e visualizar outros staffs em vanish.
+    default: op

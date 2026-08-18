@@ -1,0 +1,14 @@
+# HylorVanish - Configuração
+# Use & para cores.
+
+# Esconde as mensagens de entrada/saída quando o jogador está em vanish.
+hide-join-quit-messages: true
+
+messages:
+  actionbar: '&d&lMODO VANISH'
+  vanish-enabled: '&aVocê entrou no modo vanish.'
+  vanish-disabled: '&cVocê saiu do modo vanish.'
+  already-vanished: '&eVocê já está no modo vanish. Use &f/vv &epara sair.'
+  not-vanished: '&eVocê não está no modo vanish.'
+  no-permission: '&cVocê não possui permissão.'
+  only-player: '&cApenas jogadores podem usar este comando.'
